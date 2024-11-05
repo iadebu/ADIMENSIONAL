@@ -121,7 +121,7 @@ class MainScene extends Phaser.Scene {
 
         // Actualizar posición del texto de diálogo
         if (this.isInInteractionArea) {
-            this.dialogueText.setPosition(this.player.x, this.player.y - 60); // Colocar texto sobre la cabeza
+            this.dialogueText.setPosition(this.player.x, this.player.y - 100); // Colocar texto sobre la cabeza
             //this.dialogueText.setText('Una estantería');
         } else {
             this.dialogueText.visible = false; // Ocultar texto si no está en el área de interacción
