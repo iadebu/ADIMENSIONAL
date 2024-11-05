@@ -1,4 +1,4 @@
-const playerSpeed = 0.1;
+const playerSpeed = 0.3;
 
 // Definición de la escena principal
 class MainScene extends Phaser.Scene {
