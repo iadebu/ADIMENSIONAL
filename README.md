@@ -6,8 +6,8 @@ A videogame developed with Phaser.js
 ## Where can I play it?
 
 ### Here
-Online Web version of the demo of the ADIMENSIONAL project.
-[DEMO] at https://iadebu.github.io/ADIMENSIONAL/
+Online Web version of the demo of the ADIMENSIONAL project 
+at https://iadebu.github.io/ADIMENSIONAL/
 
 ## Contact
 iadeb287@gmail.com
