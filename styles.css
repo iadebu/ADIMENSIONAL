@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Mintsoda';
+    src: url('/fonts/MintsodaLimeGreen.ttf') format('ttf');
+}
+
+body{
+    margin: 0;
+    background-color: #000;
+    font-family: 'sans-serif'; /* Establecer la fuente por defecto */
+}
