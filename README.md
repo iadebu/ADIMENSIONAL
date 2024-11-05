@@ -7,7 +7,7 @@ A videogame developed with Phaser.js
 
 ### Here
 Online Web version of the demo of the ADIMENSIONAL project.
-[DEMO]([https://link-a-tu-proyecto.com](https://iadebu.github.io/ADIMENSIONAL/))
+[DEMO]((https://iadebu.github.io/ADIMENSIONAL/))
 
 ## Contact
 iadeb287@gmail.com
