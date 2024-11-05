@@ -1,23 +1,17 @@
-# Portafolio de [Tu Nombre]
+# ADIMENSIONAL
 
-## Sobre mí
-Soy [tu ocupación], con experiencia en [tus habilidades]. Me encanta crear proyectos de calidad y seguir aprendiendo cada día.
+## What is this project?
+A videogame developed with Phaser.js
 
-## Proyectos
+## Where can I play it?
 
-### Proyecto 1
-Descripción breve de este proyecto.  
-[Ver proyecto](https://link-a-tu-proyecto.com)
+### Online
+Online Web version of the demo of the ADIMENSIONAL project.
+[DEMO]([https://link-a-tu-proyecto.com](https://iadebu.github.io/ADIMENSIONAL/))
 
-### Proyecto 2
-Descripción breve de este proyecto.  
-[Ver proyecto](https://link-a-tu-proyecto.com)
-
-<!-- Agrega más proyectos según necesites -->
-
-## Contacto
-Si deseas comunicarte conmigo, puedes escribirme a [tuemail@example.com](mailto:tuemail@example.com).
+## Contact
+iadeb287@gmail.com
 
 ---
 
-&copy; 2024 [Tu Nombre] - Todos los derechos reservados
+&copy; 2024 IADEB - All rights reserved
